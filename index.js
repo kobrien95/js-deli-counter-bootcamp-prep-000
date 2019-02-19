@@ -5,5 +5,5 @@ function takeANumber(katzDeli, name) {
 }
 function nowServing(katzDeli,name){
   let i = 0;
-  while ()
+  while (i<katzDeli.lenght)
 }
