@@ -8,4 +8,5 @@ function nowServing(katzDeli,name){
   while (i <katzDeli.lenght){
     i++;
   }
+  if (katzDeli ===0)
 }
