@@ -5,4 +5,5 @@ function takeANumber(katzDeli, name) {
 }
 function nowServing(katzDeli,name){
   katzDeli.push(`${name}`);
+  return();
 }
