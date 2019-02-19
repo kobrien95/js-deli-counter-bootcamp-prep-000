@@ -23,5 +23,5 @@ function currentLine(katzDeli) {
   if (katzDeli.length === 0) {
     return "The line is currently 1.${name}.";
   } else
-  return(`Currently s`)
+  return(`The line is currently:` + line);
 }
