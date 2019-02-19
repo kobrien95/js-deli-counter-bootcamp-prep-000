@@ -4,5 +4,5 @@ function takeANumber(katzDeli, name) {
   return(`Welcome, ${name}. You are number ${katzDeli.length} in line.`);
 }
 function nowServing(katzDeli,name){
-  let 1 = 0; 
+  let i = 0;
 }
