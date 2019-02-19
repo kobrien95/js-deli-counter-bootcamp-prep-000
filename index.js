@@ -8,5 +8,7 @@ function nowServing(katzDeli,name){
   while (i <katzDeli.lenght){
     i++;
   }
-  if (katzDeli.lenght ===0)
+  if (katzDeli.lenght ===0){
+    return(there is nobody waiting to be served)
+  }
 }
