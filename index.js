@@ -23,5 +23,5 @@ function currentLine(katzDeli,name){
   if (katzDeli.lenght ===0){
     return 'The line is currently empty';
   } else
-  return ('The line is currently empty ')
+  return ('The line is currently empty:`')
 }
