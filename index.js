@@ -9,6 +9,6 @@ function nowServing(katzDeli,name){
     i++;
   }
   if (katzDeli.lenght ===0){
-    return(there is nobody waiting to be served)
+    return 'there is nobody waiting to be served';
   }
 }
